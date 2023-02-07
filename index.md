@@ -9,7 +9,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: Daniel's First Isomer Site
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
@@ -31,5 +31,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
