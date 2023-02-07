@@ -35,7 +35,7 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
-      alt: Image alt text
+      alt: Garden by the Bay
       image: /images/hero-banner.png
   - resources:
       title: Resources Section Title
