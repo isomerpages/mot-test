@@ -32,7 +32,7 @@ sections:
       url: /faq/
   - infopic:
       title: Infopic Title
-      subtitle: Infopic Subtitle
+      subtitle: Updated on 14 Mar 2024
       description: Infopic description
       button: Button Text
       alt: Garden by the Bay
