@@ -1,6 +1,6 @@
 ---
 title: Example Page
 permalink: /example-page/
-variant: markdown
+variant: tiptap
 ---
-[Interactive Video](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=vjBrN18wiuE)
+<p></p>
