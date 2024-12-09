@@ -1,8 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
+  - title: Who We Are
     url: /contact-us/
-  - title: Example Page
+  - title: Research
     url: /example-page/
-  - title: Proof Of Concepts
+  - title: Fare Regulation
     collection: proof-of-concepts
+  - title: Newsroom
+    url: /permalink
+    sublinks: []
+  - title: Fare Adjustment Formula
+    url: /permalink
+    sublinks: []
