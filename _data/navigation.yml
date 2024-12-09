@@ -1,11 +1,34 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Who We Are
-    url: /contact-us/
+    url: /permalink
+    sublinks:
+      - title: Overview
+        url: /permalink
+      - title: Organizational Structure
+        url: /permalink
+      - title: Meet the Council Members
+        url: /permalink
+      - title: Milestones
+        url: /permalink
+      - title: Mission, Vision, Values
+        url: /permalink
   - title: Research
-    url: /example-page/
+    url: /permalink
+    sublinks:
+      - title: Advisory Report
+        url: /permalink
+      - title: Surveys
+        url: /permalink
+      - title: Collaborations
+        url: /permalink
   - title: Fare Regulation
-    collection: proof-of-concepts
+    url: /permalink
+    sublinks:
+      - title: Bus & Rail
+        url: /permalink
+      - title: Taxi & Private Hire Car
+        url: /permalink
   - title: Newsroom
     url: /permalink
     sublinks:
