@@ -1,12 +1,10 @@
 ---
 layout: homepage
 title: Daniel's Test Site
-description: |-
-  An Isomer site of the Singapore Government.
-  Test Site by Daniel
+description: An Isomer site of the Singapore Government. Test Site by Daniel
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Better Rides. Affordable Fares. Sustainable Public Transport.
 sections:
   - hero:
       title: Daniel's First Isomer Site
@@ -15,18 +13,18 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Penalty Fee Appeal
+          description: ""
+          url: https://www.ptc.gov.sg/penalty-fee-services
+        - title: Caring SG Commuters Portal
+          description: ""
+          url: https://www.caringcommuters.gov.sg/
+        - title: Fare Structure
+          description: ""
+          url: https://www.ptc.gov.sg/fare-regulation/bus-rail/fare-structure
   - infobar:
       title: Infobar title
-      subtitle: Infobar Subtitle
+      subtitle: Your Opinion Matters
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
