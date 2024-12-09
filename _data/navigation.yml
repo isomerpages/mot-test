@@ -8,7 +8,15 @@ links:
     collection: proof-of-concepts
   - title: Newsroom
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: PTC's Blog
+        url: /permalink
+      - title: News Releases
+        url: /permalink
+      - title: Video and Infographics
+        url: /permalink
+      - title: Resources
+        url: /permalink
   - title: Fare Adjustment Formula
     url: /permalink
     sublinks: []
