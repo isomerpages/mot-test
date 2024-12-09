@@ -1,32 +1,43 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Public Transport Council
+description: An Isomer site of the Singapore Government. Test Site by Daniel
+image: /images/logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Better Rides
+      subtitle: Affordable Fares. Sustainable Public Transport.
+      background: /images/banner_home_01.jpg
+      button: Overview
+      url: https://www.ptc.gov.sg/about/overview
+      key_highlights:
+        - title: Penalty Fee Appeal
+          description: ""
+          url: https://www.ptc.gov.sg/penalty-fee-services
+        - title: Caring SG Commuters Portal
+          description: ""
+          url: https://www.caringcommuters.gov.sg/
+        - title: Fare Structure
+          description: ""
+          url: https://www.ptc.gov.sg/fare-regulation/bus-rail/fare-structure
+  - textcards:
+      title: Newsroom
+      id: textcards
+      cards:
+        - title: As of 3 April 2024
+          description: PTC's Survey Findings on Customers' Satisfaction with Public
+            Transportation
+          linktext: Learn more
+          url: ""
+        - title: As of Dec 2023
+          description: PTC's Survey Findings on Customers' Satisfaction with Public
+            Transportation
+          linktext: Learn more
+          url: ""
+        - title: Point-to-Point Transport Services 2023
+          description: PTC's Survey Findings on Customers' Satisfaction
+          linktext: Learn more
+          url: ""
 ---
-

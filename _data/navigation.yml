@@ -1,15 +1,44 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Who We Are
+    url: /permalink
+    sublinks:
+      - title: Overview
+        url: /permalink
+      - title: Organizational Structure
+        url: /permalink
+      - title: Meet the Council Members
+        url: /permalink
+      - title: Milestones
+        url: /permalink
+      - title: Mission, Vision, Values
+        url: /permalink
+  - title: Research
+    url: /permalink
+    sublinks:
+      - title: Advisory Report
+        url: /permalink
+      - title: Surveys
+        url: /permalink
+      - title: Collaborations
+        url: /permalink
+  - title: Fare Regulation
+    url: /permalink
+    sublinks:
+      - title: Bus & Rail
+        url: /permalink
+      - title: Taxi & Private Hire Car
+        url: /permalink
+  - title: Newsroom
+    url: /permalink
+    sublinks:
+      - title: PTC's Blog
+        url: /permalink
+      - title: News Releases
+        url: /permalink
+      - title: Video and Infographics
+        url: /permalink
+      - title: Resources
+        url: /permalink
+  - title: Fare Adjustment Formula
+    url: https://www.ptc.gov.sg/fare-adjustment-formula-and-mechanism

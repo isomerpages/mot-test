@@ -1,7 +1,9 @@
 collections:
-  example-folder:
+  proof-of-concepts:
     output: true
     order:
+      - CC Game (SP).md
+      - Interactive Video.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
