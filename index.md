@@ -4,14 +4,14 @@ title: Public Transport Council
 description: An Isomer site of the Singapore Government. Test Site by Daniel
 image: /images/logo.svg
 permalink: /
-notification: Better Rides. Affordable Fares. Sustainable Public Transport.
+notification: ""
 sections:
   - hero:
-      title: Daniel's First Isomer Site
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: Better Rides
+      subtitle: Affordable Fares. Sustainable Public Transport.
+      background: /images/banner_home_01.jpg
+      button: Overview
+      url: https://www.ptc.gov.sg/about/overview
       key_highlights:
         - title: Penalty Fee Appeal
           description: ""
@@ -22,21 +22,25 @@ sections:
         - title: Fare Structure
           description: ""
           url: https://www.ptc.gov.sg/fare-regulation/bus-rail/fare-structure
-  - infobar:
-      title: Infobar title
-      subtitle: Your Opinion Matters
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infopic:
-      title: Infopic Title
-      subtitle: Updated on 14 Mar 2024
-      description: Infopic description
-      button: Button Text
-      alt: Garden by the Bay
-      image: /images/hero-banner.png
+  - textcards:
+      title: Newsroom
+      id: textcards
+      cards:
+        - title: As of 3 April 2024
+          description: PTC's Survey Findings on Customers' Satisfaction with Public
+            Transportation
+          linktext: Learn more
+          url: ""
+        - title: As of Dec 2023
+          description: PTC's Survey Findings on Customers' Satisfaction with Public
+            Transportation
+          linktext: Learn more
+          url: ""
+        - title: Point-to-Point Transport Services 2023
+          description: PTC's Survey Findings on Customers' Satisfaction
+          linktext: Learn more
+          url: ""
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Join the Conversation
+      id: resources
 ---
