@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Daniel's Test Site
+title: Public Transport Council
 description: An Isomer site of the Singapore Government. Test Site by Daniel
-image: /images/isomer-logo.svg
+image: /images/logo.svg
 permalink: /
 notification: Better Rides. Affordable Fares. Sustainable Public Transport.
 sections:
