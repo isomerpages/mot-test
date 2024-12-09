@@ -40,7 +40,4 @@ sections:
           description: PTC's Survey Findings on Customers' Satisfaction
           linktext: Learn more
           url: ""
-  - resources:
-      title: Join the Conversation
-      id: resources
 ---
